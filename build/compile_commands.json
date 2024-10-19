@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/catfish/github/live/build",
+  "command": "/usr/bin/g++-10   -g -std=gnu++2a -o CMakeFiles/live.dir/src/main.cpp.o -c /home/catfish/github/live/src/main.cpp",
+  "file": "/home/catfish/github/live/src/main.cpp",
+  "output": "CMakeFiles/live.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/catfish/github/live/build",
+  "command": "/usr/bin/g++-10   -g -std=gnu++2a -o CMakeFiles/live.dir/src/custom.cpp.o -c /home/catfish/github/live/src/custom.cpp",
+  "file": "/home/catfish/github/live/src/custom.cpp",
+  "output": "CMakeFiles/live.dir/src/custom.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++-10 -g CMakeFiles/live.dir/src/main.cpp.o CMakeFiles/live.dir/src/custom.cpp.o -o live  /usr/lib/x86_64-linux-gnu/libcurl.so /usr/lib/x86_64-linux-gnu/libgumbo.so

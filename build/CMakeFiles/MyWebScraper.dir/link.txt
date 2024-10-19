@@ -1,0 +1,1 @@
+/usr/bin/g++-10 -g CMakeFiles/MyWebScraper.dir/src/main.cpp.o CMakeFiles/MyWebScraper.dir/src/custom.cpp.o -o MyWebScraper  /usr/lib/x86_64-linux-gnu/libcurl.so /usr/lib/x86_64-linux-gnu/libgumbo.so

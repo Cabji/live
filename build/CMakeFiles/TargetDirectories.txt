@@ -1,0 +1,3 @@
+/home/catfish/github/live/build/CMakeFiles/live.dir
+/home/catfish/github/live/build/CMakeFiles/edit_cache.dir
+/home/catfish/github/live/build/CMakeFiles/rebuild_cache.dir
